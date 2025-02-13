@@ -17,8 +17,6 @@ _Out of the box integration with OpenAI, Azure, Cohere, Amazon Bedrock, Google G
 <a href="https://www.producthunt.com/posts/k8sAI?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-k8sAI" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=389489&theme=light" alt="k8sAI - k8sAI&#0032;gives&#0032;Kubernetes&#0032;Superpowers&#0032;to&#0032;everyone | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> <a href="https://hellogithub.com/repository/9dfe44c18dfb4d6fa0181baf8b2cf2e1" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=9dfe44c18dfb4d6fa0181baf8b2cf2e1&claim_uid=gqG4wmzkMrP0eFy" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
-<img src="images/demo4.gif" width=650px; />
-
 # CLI Installation
 
 ### Linux/Mac via brew
