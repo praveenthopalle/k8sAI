@@ -3,7 +3,6 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/k8sAI-ai/k8sAI)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7272/badge)](https://bestpractices.coreinfrastructure.org/projects/7272)
 [![Link to documentation](https://img.shields.io/static/v1?label=%F0%9F%93%96&message=Documentation&color=blue)](https://docs.k8sAI.ai/)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fk8sAI-ai%2Fk8sAI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fk8sAI-ai%2Fk8sAI?ref=badge_shield)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Go version](https://img.shields.io/github/go-mod/go-version/k8sAI-ai/k8sAI.svg)](https://github.com/k8sAI-ai/k8sAI)
 [![codecov](https://codecov.io/github/k8sAI-ai/k8sAI/graph/badge.svg?token=ZLR7NG8URE)](https://codecov.io/github/k8sAI-ai/k8sAI)
