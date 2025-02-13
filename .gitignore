@@ -1,0 +1,9 @@
+.idea
+__debug*
+.DS_Store
+k8sAI*
+!charts/k8sAI
+*.vscode
+dist/
+
+bin/

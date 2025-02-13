@@ -1,0 +1,30 @@
+deployment:
+  image:
+    repository: ghcr.io/k8sAI-ai/k8sAI
+    tag: "" # defaults to Chart.appVersion if unspecified
+  imagePullPolicy: Always
+  annotations: {}
+  env:
+    model: "gpt-3.5-turbo"
+    backend: "openai" # one of: [ openai | llama ]
+  resources:
+    limits:
+      cpu: "1"
+      memory: "512Mi"
+    requests:
+      cpu: "0.2"
+      memory: "156Mi"
+  securityContext: {}
+  # Set securityContext.runAsUser/runAsGroup if necessary. Values below were taken from https://github.com/k8sAI-ai/k8sAI/blob/main/container/Dockerfile
+  # runAsUser: 65532
+  # runAsGroup: 65532
+secret:
+  secretKey: "" # base64 encoded OpenAI token
+
+service:
+  type: ClusterIP
+  annotations: {}
+
+serviceMonitor:
+  enabled: false
+  additionalLabels: {}
